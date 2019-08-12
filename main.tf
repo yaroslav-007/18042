@@ -8,7 +8,7 @@ name = "18042"
 }
 
 provider "aws" {
-profile = "software"
+#profile = "software"
 region = "us-west-2"
 }
 
